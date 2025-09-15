@@ -1,0 +1,10 @@
+ {
+   "KEY_MOD_LCTRL":  "0x01",
+    "KEY_MOD_LSHIFT": "0x02",
+    "KEY_MOD_LALT":  "0x04",
+    "KEY_MOD_LMETA":  "0x08",
+    "KEY_MOD_RCTRL":  "0x10",
+    "KEY_MOD_RSHIFT": "0x20",
+    "KEY_MOD_RALT":   "0x40",
+    "KEY_MOD_RMETA":  "0x80"
+}

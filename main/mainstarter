@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /home/pi/keyboardattachment/main
+
+sudo python3 helloworld.py &
+
+sudo python3 -u main.py > output.txt &
